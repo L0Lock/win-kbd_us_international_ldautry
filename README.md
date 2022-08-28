@@ -10,6 +10,8 @@ It's basically the default Windows' US International layout, but:
 - <kbd>&#8679; Shift</kbd><kbd>Space</kbd> produces an unbreakable space. Because it's so damn useful.
 - <kbd>&#9095; Alt</kbd><kbd>.</kbd> is a macron deadkey `¯`, allowing to write [Rōmaji](https://www.wikiwand.com/fr/R%C5%8Dmaji). Because I weeb everyday.
 
+![2022-08-28_1111](https://user-images.githubusercontent.com/16049822/187069413-d944b3ac-bef8-4b9b-8c79-67ce49782e4c.jpg)
+
 ## How to Install or Build
 
 You can download the [latest release](/releases/latest), unzip it anywhere, and run the `setup.exe` file.
